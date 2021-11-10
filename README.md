@@ -13,6 +13,7 @@
 <p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Python, C#, Unity, Machine Learning, Pygame. </p>   
   
+  
 </div>
     
 ## Conhecimentos
@@ -60,4 +61,7 @@
 
   ![Snake animation](https://github.com/marcusviniciusteixeira/marcusviniciusteixeira/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+<div align="center">
+  <img align="center" alt="marcus-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/2ya7xLyEeynlZM4FCw/giphy.gif">
 </div>
