@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusteixeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Olá, eu sou o Marcus! 
+## Olá! Eu sou o Marcus. 
   
 ### Sobre mim
 <div style="display: inline_block"  >
