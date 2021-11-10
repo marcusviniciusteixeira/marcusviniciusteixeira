@@ -53,7 +53,9 @@
  </p>
 
 </p>
-  
+
+##
+
 <div> 
 
   ![Snake animation](https://github.com/marcusviniciusteixeira/marcusviniciusteixeira/blob/output/github-contribution-grid-snake.svg)
