@@ -22,3 +22,13 @@
   ![Snake animation](https://github.com/marcusviniciusteixeira/marcusviniciusteixeira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</p>
+
+<p align="center"> 
+
+ ## <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marcusviniciusteixeira/count.svg" />
+ </p>
+
+</p>
