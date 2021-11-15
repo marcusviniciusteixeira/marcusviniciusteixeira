@@ -1,4 +1,5 @@
-## 01001111 01101100 11100001 
+
+![Bem vindos!](https://github.com/marcusviniciusteixeira/marcusviniciusteixeira/blob/main/banner.jpg)
 
 <div align="center">
   <a href="https://github.com/marcusviniciusteixeira">
