@@ -45,7 +45,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/zmarkin">
-        <img src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.linkedin.com/in/marcus-teixeira-a5b892209">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.linkedin.com/in/marcus-teixeira-a5b892209">
     </a>
     
 </p>
