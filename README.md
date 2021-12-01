@@ -12,7 +12,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 3° semestre. </p>
-<p> - 🎯 Interesse: Python, C#, Unity, Machine Learning. </p>   
+<p> - 🎯 Interesse: Python, C#, Unity, Deep Learning. </p>   
   
   
 </div>
