@@ -1,6 +1,4 @@
 
-![Bem vindos!](https://github.com/marcusviniciusteixeira/marcusviniciusteixeira/blob/main/banner.jpg)
-
 <div align="center">
   <a href="https://github.com/marcusviniciusteixeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusviniciusteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
