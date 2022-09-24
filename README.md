@@ -10,7 +10,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - :computer: Desenvolvedor no Superior Tribunal Militar. </p>
-<p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 3° semestre. </p>
+<p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 4° semestre. </p>
 <p> - 🎯 Interesse: Python, C#, Unity, Deep Learning, RPA, Big Data. </p>   
   
   
