@@ -9,9 +9,9 @@
   
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - :computer: Desenvolvedor no Superior Tribunal Militar. </p>
-<p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 5° semestre. </p>
-<p> - 🎯 Interesse: Python, C#, Unity, Deep Learning, RPA, Big Data. </p>   
+<p> - :computer: Superior Tribunal Militar. </p>
+<p> - 📚 Estudante de Engenharia de Software, atualmente estou cursando o 6° semestre. </p>
+<p> - 🎯 Interesse: Python, Deep Learning, RPA, Data Analytics. </p>   
   
   
 </div>
@@ -33,10 +33,6 @@
 ## Contato
 
 <p align="center">
-    <a href="https://github.com/marcusviniciusteixeira">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/marcusviniciusteixeira">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:marcusvteixeirasilva@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcusvteixeirasilva@gmail.com">
     </a>
